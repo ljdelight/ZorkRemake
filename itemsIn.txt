@@ -1,0 +1,9 @@
+ring
+An ordinary looking ring
+You see special symbols inscribed in this ring
+
+
+orb
+A magical orb from the Land of the Dead
+The powers capable of this orb are unimaginable. Using this will surely kill anyone who uses it
+
